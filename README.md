@@ -2,9 +2,10 @@
 
     npm install -g jsdoc
 
-# Docstrap (JSDoc template with multiple themes)
+# Docstrap
+(JSDoc template with multiple themes)
 
-   npm install ink-docstrap
+    npm install ink-docstrap
 
 Then update `doc.sh` :
 
